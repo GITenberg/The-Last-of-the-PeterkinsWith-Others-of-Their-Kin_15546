@@ -1,0 +1,37 @@
+_repo: The-Last-of-the-PeterkinsWith-Others-of-Their-Kin_15546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hale, Lucretia P. (Lucretia Peabody)
+    alias: Hale, Lucretia Peabody
+    birthdate: 1820
+    deathdate: 1900
+    gutenberg_agent_id: '1092'
+    url: http://www.gutenberg.org/2009/agents/1092
+    wikipedia: http://en.wikipedia.org/wiki/Lucretia_Peabody_Hale
+description: ''
+gutenberg_issued: '2005-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Governors -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Diaries -- Juvenile fiction'
+- !lcsh 'Pyramids -- Juvenile fiction'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+title: 'The Last of the Peterkins
+
+  With Others of Their Kin'
+url: http://www.gutenberg.org/ebooks/15546
